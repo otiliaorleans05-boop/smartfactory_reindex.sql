@@ -1,0 +1,1 @@
+# smartfactory_reindex.sql
